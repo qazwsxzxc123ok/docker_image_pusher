@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:230901-amd64
+nyanmisaka/jellyfin:latest
