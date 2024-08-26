@@ -1,2 +1,2 @@
 nyanmisaka/jellyfin:latest
-
+lovechen/embyserver
